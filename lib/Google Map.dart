@@ -40,6 +40,7 @@ class MapSampleState extends State<MapSample> {
         icon: const Icon(Icons.directions_boat),
       ),
     );
+
   }
 
   Future<void> _goToTheLake() async {
